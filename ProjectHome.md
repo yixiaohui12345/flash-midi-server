@@ -1,0 +1,1 @@
+Flash Midi Server is method for sending MIDI data out of Flash – using an Actionscript 3 class and a Processing application.
